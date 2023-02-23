@@ -1,0 +1,121 @@
+C:\Users\Ahmad\source\repos\Review\your Review\bin\Debug\net6.0-windows\your Review.exe
+C:\Users\Ahmad\source\repos\Review\your Review\bin\Debug\net6.0-windows\your Review.deps.json
+C:\Users\Ahmad\source\repos\Review\your Review\bin\Debug\net6.0-windows\your Review.runtimeconfig.json
+C:\Users\Ahmad\source\repos\Review\your Review\bin\Debug\net6.0-windows\your Review.dll
+C:\Users\Ahmad\source\repos\Review\your Review\bin\Debug\net6.0-windows\your Review.pdb
+C:\Users\Ahmad\source\repos\Review\your Review\obj\Debug\net6.0-windows\your Review.csproj.AssemblyReference.cache
+C:\Users\Ahmad\source\repos\Review\your Review\obj\Debug\net6.0-windows\your_Review.Form1.resources
+C:\Users\Ahmad\source\repos\Review\your Review\obj\Debug\net6.0-windows\your Review.csproj.GenerateResource.cache
+C:\Users\Ahmad\source\repos\Review\your Review\obj\Debug\net6.0-windows\your Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmad\source\repos\Review\your Review\obj\Debug\net6.0-windows\your Review.AssemblyInfoInputs.cache
+C:\Users\Ahmad\source\repos\Review\your Review\obj\Debug\net6.0-windows\your Review.AssemblyInfo.cs
+C:\Users\Ahmad\source\repos\Review\your Review\obj\Debug\net6.0-windows\your Review.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\source\repos\Review\your Review\obj\Debug\net6.0-windows\your Review.dll
+C:\Users\Ahmad\source\repos\Review\your Review\obj\Debug\net6.0-windows\refint\your Review.dll
+C:\Users\Ahmad\source\repos\Review\your Review\obj\Debug\net6.0-windows\your Review.pdb
+C:\Users\Ahmad\source\repos\Review\your Review\obj\Debug\net6.0-windows\your Review.genruntimeconfig.cache
+C:\Users\Ahmad\source\repos\Review\your Review\obj\Debug\net6.0-windows\ref\your Review.dll
+C:\Users\Ahmad\source\repos\Review\your Review\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Ahmad\source\repos\Review\your Review\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ahmad\source\repos\Review\your Review\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ahmad\source\repos\Review\your Review\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ahmad\source\repos\Review\your Review\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ahmad\source\repos\Review\your Review\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ahmad\source\repos\Review\your Review\obj\Debug\net6.0-windows\your Review.csproj.CopyComplete
+C:\Users\Student\Desktop\Review\your Review\bin\Debug\net6.0-windows\your Review.exe
+C:\Users\Student\Desktop\Review\your Review\bin\Debug\net6.0-windows\your Review.deps.json
+C:\Users\Student\Desktop\Review\your Review\bin\Debug\net6.0-windows\your Review.runtimeconfig.json
+C:\Users\Student\Desktop\Review\your Review\bin\Debug\net6.0-windows\your Review.dll
+C:\Users\Student\Desktop\Review\your Review\bin\Debug\net6.0-windows\your Review.pdb
+C:\Users\Student\Desktop\Review\your Review\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Student\Desktop\Review\your Review\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Student\Desktop\Review\your Review\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Student\Desktop\Review\your Review\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Student\Desktop\Review\your Review\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Student\Desktop\Review\your Review\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Student\Desktop\Review\your Review\obj\Debug\net6.0-windows\your Review.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Review\your Review\obj\Debug\net6.0-windows\your_Review.Form1.resources
+C:\Users\Student\Desktop\Review\your Review\obj\Debug\net6.0-windows\your Review.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Review\your Review\obj\Debug\net6.0-windows\your Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Review\your Review\obj\Debug\net6.0-windows\your Review.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Review\your Review\obj\Debug\net6.0-windows\your Review.AssemblyInfo.cs
+C:\Users\Student\Desktop\Review\your Review\obj\Debug\net6.0-windows\your Review.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Review\your Review\obj\Debug\net6.0-windows\your Review.csproj.CopyComplete
+C:\Users\Student\Desktop\Review\your Review\obj\Debug\net6.0-windows\your Review.dll
+C:\Users\Student\Desktop\Review\your Review\obj\Debug\net6.0-windows\refint\your Review.dll
+C:\Users\Student\Desktop\Review\your Review\obj\Debug\net6.0-windows\your Review.pdb
+C:\Users\Student\Desktop\Review\your Review\obj\Debug\net6.0-windows\your Review.genruntimeconfig.cache
+C:\Users\Student\Desktop\Review\your Review\obj\Debug\net6.0-windows\ref\your Review.dll
+D:\Review\your Review\bin\Debug\net6.0-windows\your Review.exe
+D:\Review\your Review\bin\Debug\net6.0-windows\your Review.deps.json
+D:\Review\your Review\bin\Debug\net6.0-windows\your Review.runtimeconfig.json
+D:\Review\your Review\bin\Debug\net6.0-windows\your Review.dll
+D:\Review\your Review\bin\Debug\net6.0-windows\your Review.pdb
+D:\Review\your Review\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Review\your Review\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Review\your Review\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Review\your Review\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Review\your Review\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Review\your Review\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Review\your Review\obj\Debug\net6.0-windows\your Review.csproj.AssemblyReference.cache
+D:\Review\your Review\obj\Debug\net6.0-windows\your_Review.Form1.resources
+D:\Review\your Review\obj\Debug\net6.0-windows\your Review.csproj.GenerateResource.cache
+D:\Review\your Review\obj\Debug\net6.0-windows\your Review.GeneratedMSBuildEditorConfig.editorconfig
+D:\Review\your Review\obj\Debug\net6.0-windows\your Review.AssemblyInfoInputs.cache
+D:\Review\your Review\obj\Debug\net6.0-windows\your Review.AssemblyInfo.cs
+D:\Review\your Review\obj\Debug\net6.0-windows\your Review.csproj.CoreCompileInputs.cache
+D:\Review\your Review\obj\Debug\net6.0-windows\your Review.csproj.CopyComplete
+D:\Review\your Review\obj\Debug\net6.0-windows\your Review.dll
+D:\Review\your Review\obj\Debug\net6.0-windows\refint\your Review.dll
+D:\Review\your Review\obj\Debug\net6.0-windows\your Review.pdb
+D:\Review\your Review\obj\Debug\net6.0-windows\your Review.genruntimeconfig.cache
+D:\Review\your Review\obj\Debug\net6.0-windows\ref\your Review.dll
+C:\Users\Student\Desktop\Neuer Ordner (2)\Review\your Review\bin\Debug\net6.0-windows\your Review.exe
+C:\Users\Student\Desktop\Neuer Ordner (2)\Review\your Review\bin\Debug\net6.0-windows\your Review.deps.json
+C:\Users\Student\Desktop\Neuer Ordner (2)\Review\your Review\bin\Debug\net6.0-windows\your Review.runtimeconfig.json
+C:\Users\Student\Desktop\Neuer Ordner (2)\Review\your Review\bin\Debug\net6.0-windows\your Review.dll
+C:\Users\Student\Desktop\Neuer Ordner (2)\Review\your Review\bin\Debug\net6.0-windows\your Review.pdb
+C:\Users\Student\Desktop\Neuer Ordner (2)\Review\your Review\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Student\Desktop\Neuer Ordner (2)\Review\your Review\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Student\Desktop\Neuer Ordner (2)\Review\your Review\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Student\Desktop\Neuer Ordner (2)\Review\your Review\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Student\Desktop\Neuer Ordner (2)\Review\your Review\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Student\Desktop\Neuer Ordner (2)\Review\your Review\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Student\Desktop\Neuer Ordner (2)\Review\your Review\obj\Debug\net6.0-windows\your Review.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Neuer Ordner (2)\Review\your Review\obj\Debug\net6.0-windows\your_Review.Form1.resources
+C:\Users\Student\Desktop\Neuer Ordner (2)\Review\your Review\obj\Debug\net6.0-windows\your Review.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Neuer Ordner (2)\Review\your Review\obj\Debug\net6.0-windows\your Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Neuer Ordner (2)\Review\your Review\obj\Debug\net6.0-windows\your Review.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Neuer Ordner (2)\Review\your Review\obj\Debug\net6.0-windows\your Review.AssemblyInfo.cs
+C:\Users\Student\Desktop\Neuer Ordner (2)\Review\your Review\obj\Debug\net6.0-windows\your Review.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Neuer Ordner (2)\Review\your Review\obj\Debug\net6.0-windows\your Review.csproj.CopyComplete
+C:\Users\Student\Desktop\Neuer Ordner (2)\Review\your Review\obj\Debug\net6.0-windows\your Review.dll
+C:\Users\Student\Desktop\Neuer Ordner (2)\Review\your Review\obj\Debug\net6.0-windows\refint\your Review.dll
+C:\Users\Student\Desktop\Neuer Ordner (2)\Review\your Review\obj\Debug\net6.0-windows\your Review.pdb
+C:\Users\Student\Desktop\Neuer Ordner (2)\Review\your Review\obj\Debug\net6.0-windows\your Review.genruntimeconfig.cache
+C:\Users\Student\Desktop\Neuer Ordner (2)\Review\your Review\obj\Debug\net6.0-windows\ref\your Review.dll
+D:\Projects\C#\WindowsForms\shatlo\Review\your Review\bin\Debug\net6.0-windows\your Review.exe
+D:\Projects\C#\WindowsForms\shatlo\Review\your Review\bin\Debug\net6.0-windows\your Review.deps.json
+D:\Projects\C#\WindowsForms\shatlo\Review\your Review\bin\Debug\net6.0-windows\your Review.runtimeconfig.json
+D:\Projects\C#\WindowsForms\shatlo\Review\your Review\bin\Debug\net6.0-windows\your Review.dll
+D:\Projects\C#\WindowsForms\shatlo\Review\your Review\bin\Debug\net6.0-windows\your Review.pdb
+D:\Projects\C#\WindowsForms\shatlo\Review\your Review\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Projects\C#\WindowsForms\shatlo\Review\your Review\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Projects\C#\WindowsForms\shatlo\Review\your Review\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Projects\C#\WindowsForms\shatlo\Review\your Review\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Projects\C#\WindowsForms\shatlo\Review\your Review\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\C#\WindowsForms\shatlo\Review\your Review\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\C#\WindowsForms\shatlo\Review\your Review\obj\Debug\net6.0-windows\your Review.csproj.AssemblyReference.cache
+D:\Projects\C#\WindowsForms\shatlo\Review\your Review\obj\Debug\net6.0-windows\your_Review.Form1.resources
+D:\Projects\C#\WindowsForms\shatlo\Review\your Review\obj\Debug\net6.0-windows\your Review.csproj.GenerateResource.cache
+D:\Projects\C#\WindowsForms\shatlo\Review\your Review\obj\Debug\net6.0-windows\your Review.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\WindowsForms\shatlo\Review\your Review\obj\Debug\net6.0-windows\your Review.AssemblyInfoInputs.cache
+D:\Projects\C#\WindowsForms\shatlo\Review\your Review\obj\Debug\net6.0-windows\your Review.AssemblyInfo.cs
+D:\Projects\C#\WindowsForms\shatlo\Review\your Review\obj\Debug\net6.0-windows\your Review.csproj.CoreCompileInputs.cache
+D:\Projects\C#\WindowsForms\shatlo\Review\your Review\obj\Debug\net6.0-windows\your Review.csproj.CopyComplete
+D:\Projects\C#\WindowsForms\shatlo\Review\your Review\obj\Debug\net6.0-windows\your Review.dll
+D:\Projects\C#\WindowsForms\shatlo\Review\your Review\obj\Debug\net6.0-windows\refint\your Review.dll
+D:\Projects\C#\WindowsForms\shatlo\Review\your Review\obj\Debug\net6.0-windows\your Review.pdb
+D:\Projects\C#\WindowsForms\shatlo\Review\your Review\obj\Debug\net6.0-windows\your Review.genruntimeconfig.cache
+D:\Projects\C#\WindowsForms\shatlo\Review\your Review\obj\Debug\net6.0-windows\ref\your Review.dll
+C:\Users\Ahmad\source\repos\Review\your Review\obj\Debug\net6.0-windows\your_Review.Properties.Resources.resources
