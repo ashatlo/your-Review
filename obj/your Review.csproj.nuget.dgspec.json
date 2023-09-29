@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ahmad\\source\\repos\\Review\\your Review\\your Review.csproj": {}
+    "C:\\Users\\Ahmad\\source\\repos\\yourReview\\your Review.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ahmad\\source\\repos\\Review\\your Review\\your Review.csproj": {
+    "C:\\Users\\Ahmad\\source\\repos\\yourReview\\your Review.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahmad\\source\\repos\\Review\\your Review\\your Review.csproj",
+        "projectUniqueName": "C:\\Users\\Ahmad\\source\\repos\\yourReview\\your Review.csproj",
         "projectName": "your Review",
-        "projectPath": "C:\\Users\\Ahmad\\source\\repos\\Review\\your Review\\your Review.csproj",
+        "projectPath": "C:\\Users\\Ahmad\\source\\repos\\yourReview\\your Review.csproj",
         "packagesPath": "C:\\Users\\Ahmad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahmad\\source\\repos\\Review\\your Review\\obj\\",
+        "outputPath": "C:\\Users\\Ahmad\\source\\repos\\yourReview\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ahmad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,7 +64,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

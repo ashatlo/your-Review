@@ -16,15 +16,15 @@ namespace your_Review
         public int Score { get; set; }
         public string Status { get; set; }
         public Image image { get; set; }
-        public DateTime CreatedTime { get; set; }
-        public int Scores { get; set; }
+       // public DateTime CreatedTime { get; set; }
+  
         public Reviews()
         {
 
         }
-        public Reviews(string Title, string Genre, int Score, string Status, Image image,int Scores) 
+        public Reviews(string Title, string Genre, int Score, string Status, Image image) 
         {
-            this.Scores = Scores;   
+           
             this.Title = Title;
             this.Genre = Genre; 
             this.Score = Score; 

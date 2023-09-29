@@ -1,4 +1,5 @@
 ﻿using System.Data.SqlClient;
+using System.Threading.Tasks;
 
 namespace your_Review
 {
@@ -7,14 +8,14 @@ namespace your_Review
     {
 
         public static void AddToList(Reviews todo)
-        { if (todo.Title != null && todo.Status != null && todo.Genre != null && todo.Score == null && todo.image != null) {
+        { 
 
                 string connectionString = @"Server=.\SQLExpress;Database=YourReview;Trusted_Connection=True";
 
                 SqlConnection conn = new SqlConnection(connectionString);
 
-                string sql = $@"INSERT INTO Moviesandseries ( [Title] ,      [Genre] ,       [Score] ,      [Status] ,     [Image] ,       [CreatedTime] )
-                                  VALUES ('{todo.Title}','{todo.Genre}','{todo.Score}','{todo.Status}','{todo.image}','{todo.CreatedTime}')";
+                string sql = $@"INSERT INTO Moviesandseries ( [Title] ,      [Genre] ,       [Score] ,      [Status] ,     [Image] )
+                                  VALUES ('{todo.Title}','{todo.Genre}','{todo.Score}','{todo.Status}','{todo.image}')";
 
                 SqlCommand command = new SqlCommand(sql, conn);
 
@@ -24,12 +25,7 @@ namespace your_Review
                 adapter.InsertCommand.ExecuteNonQuery();
                 command.Dispose();
                 conn.Close();
-            } 
-            else
-            {
-                MessageBox.Show("Please Enter A Value", "Erorr", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
-
+           
         }
         public static List<Reviews> getmylist ()
         {    
@@ -39,8 +35,7 @@ namespace your_Review
 
             SqlConnection  conn = new SqlConnection(connectionString);
 
-            string sql = $@"SElECT [ID], [Title] ,      [Genre] ,       [Score] ,      [Status] ,     [Image] ,       [CreatedTime] 
-                           From  [YourReview].[dbo].[Moviesandseries]  ";
+            string sql = $@"SElECT [ID], [Title] ,      [Genre] ,       [Score] ,      [Status] ,     [Image]  From  [YourReview].[dbo].[Moviesandseries]  ";
 
             SqlCommand sqlCommand = new SqlCommand(sql,conn);
 
@@ -57,8 +52,6 @@ namespace your_Review
                 //fix this
                 //temp.image = Image.FromFile("");
                 //convert img to Byte[]
-                temp.CreatedTime = Convert.ToDateTime(reader["CreatedTime"]);
-                
                 reviews.Add(temp); 
 
             } 
@@ -85,14 +78,14 @@ namespace your_Review
              comm.Dispose();
              conn.Close();
         }
-        public static void updatelist(int Id)
+        public static void updatelist(Reviews update)
         {
            string connectionString = @"Server=.\SQLExpress;Database=YourReview;Trusted_Connection=True";
             
             SqlConnection conn = new SqlConnection(connectionString);
             
-            string sql = $@"UPDATE Moviesandseries  SET [Title]= [Title]  , [Genre]=[Genre] , [Score]=[Score]  , [Status]=[Status] , [Image]=[Image] , [CreatedTime]=[CreatedTime] 
-                                                       where [Id] = {Id}";
+            string sql = $@"UPDATE Moviesandseries  SET  [Title] = '{update.Title}', [Genre] ='{update.Genre}',[Score]='{update.Score}',[Status]='{update.Status}',[Image]='{update.image}'
+                        where Id ={update.Id}";
                                           
             SqlCommand command2 = new SqlCommand(sql, conn);
             SqlDataAdapter adapter = new SqlDataAdapter();

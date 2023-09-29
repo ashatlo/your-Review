@@ -82,7 +82,7 @@ namespace your_Review
                 task.Genre = txtGenre.Text;
                 task.Status = cbStatus.Text;
                 task.image = image1.Image;
-                task.CreatedTime = DateTime.Now; 
+                //task.CreatedTime = DateTime.Now; 
                SQL.AddToList(task);
           
         }
@@ -126,8 +126,8 @@ namespace your_Review
             tasks.Genre  = txtupGenre.Text;
             tasks.Status = cbUpStatus.Text;
             tasks.image  = picbox.Image;
-            tasks.CreatedTime = DateTime.Now;
-            SQL.updatelist(tasks.Id);
+            //tasks.CreatedTime = DateTime.Now;
+            SQL.updatelist(tasks);
 
         }
     }
